@@ -26,11 +26,11 @@ Teste o aplicativo
 ```bash
 # Clone o projeto
 
-$ git clone https://github.com/Rian6/acumulado.git
+$ git clone https://github.com/Rian6/Agricultech-Mobile.git
 
 # Entre na pasta do projeto
 
-$ cd acumulado
+$ cd Agricultech-Mobile
 
 # Instale as dependências
 
