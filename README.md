@@ -12,7 +12,7 @@
 
 ### Objetivo
 
-##### Projeto desenvolvido usando react native para importação de planilhas de ruas da operadora oi usando um app mobile.
+##### Projeto desenvolvido para o pequeno agricultor com o intuito de ajudar no campo.
 
 ### Como usar?
 
